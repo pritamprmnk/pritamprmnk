@@ -1,53 +1,85 @@
+<!-- Banner -->
+
+![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0ea5e9,100:22c55e\&height=220\&section=header\&text=Pritom%20Pramanik\&fontSize=40\&fontColor=ffffff\&animation=fadeIn\&desc=Full-Stack%20Web%20Developer%20%7C%20AI%20%26%20Modern%20Web%20Tech\&descAlignY=65)
+
 # 👋 Hi, I'm Pritom Pramanik
 
 ### 💻 Full-Stack Web Developer | 🤖 Passion for AI & Modern Web Tech
 
-I’m a **Full-Stack Web Developer** passionate about building **modern, responsive, and user-friendly web applications**. I enjoy turning ideas into real-world projects using cutting-edge web technologies and continuously improving my skills.
+📍 **Location:** Bangladesh
+📧 **Email:** [pritam.dev@gmail.com](mailto:pritam.dev@gmail.com)
+📞 **Contact:** +8801XXXXXXXXX
+🔗 **LinkedIn:** [https://www.linkedin.com/in/pritampramanik/](https://www.linkedin.com/in/pritampramanik/)
+🔗 **GitHub:** [https://github.com/pritamprmnk](https://github.com/pritamprmnk)
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 I love transforming ideas into scalable and practical web solutions
-* 🌱 Continuously learning modern web technologies and AI-driven features
-* 🎯 Focused on clean code, performance, and great user experience
-* 💡 Curious about how AI can enhance everyday web applications
+I’m a **Full-Stack Web Developer** passionate about building **modern, responsive, and user-friendly web applications**.
+I enjoy turning ideas into real-world projects using **React, Next.js, Node.js, MongoDB, Firebase, and Tailwind CSS**.
+I focus on clean code, performance optimization, and scalable architecture while continuously learning new technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 Current Activities
+
+* 🌱 Exploring **Next.js** and advanced React patterns
+* 🧑‍💻 Working on a **Tourism Website** project
+* 🚀 Improving backend skills with **Node.js & Express**
+* 🤖 Experimenting with **AI-powered features** in web apps
+
+---
+
+## 🛠️ Skills
 
 ### 🌐 Frontend
 
-* HTML5, CSS3, JavaScript (ES6+)
-* React.js, Next.js
-* Tailwind CSS
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
 
 ### ⚙️ Backend
 
-* Node.js
-* Express.js
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### 💾 Database & Auth
 
-* MongoDB
-* Firebase
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 
 ### 🧰 Tools & Others
 
-* Git & GitHub
-* REST APIs
-* LocalStorage
-* Responsive Design
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
-## 💡 What I Do
+## 📌 Pinned Projects (Client-Side)
 
-* 🚀 Build interactive and responsive frontends using **React & Next.js**
-* 🛠️ Develop secure and scalable backend APIs with **Node.js & Express**
-* 💾 Manage databases for efficient and reliable data handling
-* 🤖 Explore **AI-powered features** to create smarter applications
+### 🔹 Hero IO – App Store Simulation
+
+* 🔗 Live: [https://your-live-link.com](https://your-live-link.com)
+* 🛠 Tech: React, Tailwind, LocalStorage, Chart.js
+* ⭐ Features: App install/uninstall, live search, charts
+
+### 🔹 Emergency Service Directory
+
+* 🔗 Live: [https://your-live-link.com](https://your-live-link.com)
+* 🛠 Tech: React, Firebase, Tailwind
+* ⭐ Features: Emergency contacts, role-based access
+
+### 🔹 Tourism Website
+
+* 🔗 Live: [https://your-live-link.com](https://your-live-link.com)
+* 🛠 Tech: React, Node.js, MongoDB
+* ⭐ Features: Destination listing, booking UI
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritamprmnk\&show_icons=true\&theme=react)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamprmnk\&layout=compact\&theme=react)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritamprmnk\&theme=react)
 
 ---
 
@@ -57,11 +89,4 @@ To contribute to **innovative and impactful projects** while continuously growin
 
 ---
 
-## 📫 Connect With Me
-
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
----
-
-⭐ *Feel free to explore my repositories and give a star if you like my work!*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
