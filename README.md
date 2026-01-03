@@ -92,7 +92,7 @@ I focus on clean code, performance optimization, and scalable architecture while
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritamprmnk&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritamprmnk&theme=tokyonight"/>
 </p>
 
 
@@ -106,6 +106,7 @@ To contribute to **innovative and impactful projects** while continuously growin
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
 
 
 
