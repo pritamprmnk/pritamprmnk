@@ -84,9 +84,11 @@ I focus on clean code, performance optimization, and scalable architecture while
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritamprmnk\&show_icons=true\&theme=react)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pritamprmnk&show_icons=true&theme=react" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamprmnk&layout=compact&theme=react" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamprmnk\&layout=compact\&theme=react)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritamprmnk\&theme=react)
 
@@ -99,6 +101,7 @@ To contribute to **innovative and impactful projects** while continuously growin
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
 
 
 
