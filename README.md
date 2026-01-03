@@ -1,5 +1,7 @@
 <!-- ===================== BANNER ===================== -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=230&section=header&text=Pritom%20Pramanik&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20%7C%20AI%20Modern%20Web%20Tech&descAlignY=68)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=180&section=header&text=Pritom%20Pramanik&fontSize=38&fontColor=ffffff&desc=Full-Stack%20Web%20Developer&descAlignY=70)
+
+
 
 
 
@@ -10,8 +12,7 @@
 ---
 
 
-## 👋 Hello, I'm **Pritom Pramanik**
-### 💻 Full-Stack Web Developer | 🤖 AI & Modern Web Enthusiast
+## 👋 Hello, I'm **Pritom**
 
 📍 **Rajshahi, Bangladesh**  
 📧 **Email:** [pk.pritam24@gmail.com](mailto:pk.pritam24@gmail.com)  
@@ -135,3 +136,4 @@ To work on **impactful and innovative projects** where I can apply my **full-sta
   <i>Thank you for visiting my profile.  
   Feel free to explore my repositories and connect with me!</i> 😊
 </p>
+
