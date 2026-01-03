@@ -65,19 +65,14 @@ I focus on clean code, performance optimization, and scalable architecture while
 * 🛠 Tech: React, Firebase, Tailwind
 * ⭐ Features: Emergency contacts, role-based access
 
-### 🔹 Tourism Website
-
-* 🔗 Live: [https://your-live-link.com](https://your-live-link.com)
-* 🛠 Tech: React, Node.js, MongoDB
-* ⭐ Features: Role-based authentication (Donor, Volunteer, Admin)
-
-Search blood donors by group & location
-
-Blood donation request creation & management
-
-Admin & volunteer dashboards for system control
-
-Secure APIs with JWT & Stripe payment integration
+* 🔗 Live: https://krishilink10.netlify.app/
+* 🛠 Tech: React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, JWT
+* ⭐ Features:
+  - Secure authentication (Email/Password & Google Login)
+  - Browse & search agricultural crops
+  - Post & manage crop listings
+  - Interest system between users
+  - Fully responsive & protected routes
 
 ---
 
@@ -98,6 +93,7 @@ To contribute to **innovative and impactful projects** while continuously growin
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
 
 
 
