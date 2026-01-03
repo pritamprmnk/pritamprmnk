@@ -6,9 +6,9 @@
 
 ## 💻 Full-Stack Web Developer | 🤖 Passion for AI & Modern Web Tech
 
-📍 **Location:** Bangladesh
-📧 **Email:** [pritam.dev@gmail.com](mailto:pritam.dev@gmail.com)
-📞 **Contact:** +8801XXXXXXXXX
+📍 **Location:** Rajshahi, Bangladesh
+📧 **Email:** [pk.pritam24@gmail.com](mailto:pk.pritam24@gmail.com)
+📞 **Contact:** +880 1793-110115
 🔗 **LinkedIn:** [https://www.linkedin.com/in/pritampramanik/](https://www.linkedin.com/in/pritampramanik/)
 🔗 **GitHub:** [https://github.com/pritamprmnk](https://github.com/pritamprmnk)
 
@@ -55,7 +55,7 @@ I focus on clean code, performance optimization, and scalable architecture while
 
 ### 🔹 Hero IO – App Store Simulation
 
-* 🔗 Live: [https://your-live-link.com](https://your-live-link.com)
+* 🔗 Live: [https://pk-hero-io.netlify.app/](https://pk-hero-io.netlify.app)
 * 🛠 Tech: React, Tailwind, LocalStorage, Chart.js
 * ⭐ Features: App install/uninstall, live search, charts
 
@@ -90,6 +90,7 @@ To contribute to **innovative and impactful projects** while continuously growin
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
 
 
 
