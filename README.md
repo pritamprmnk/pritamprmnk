@@ -52,6 +52,18 @@ I focus on clean code, performance optimization, and scalable architecture while
 ---
 
 ## 📌 Pinned Projects (Client-Side)
+### 🔹 RoktoSheba - Blood Donation Application
+* 🔗 Live: https://roktosheba11.netlify.app/
+* 🛠 Tech: React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, JWT, Stripe
+* ⭐ Features:
+  - Role-based authentication (Donor, Volunteer, Admin)
+  - Search blood donors by group & location
+  - Blood donation request management
+  - Admin & volunteer dashboards
+  - Secure APIs & payment integration
+
+
+
 
 ### 🔹 Hero IO – App Store Simulation
 
@@ -93,6 +105,7 @@ To contribute to **innovative and impactful projects** while continuously growin
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
 
 
 
