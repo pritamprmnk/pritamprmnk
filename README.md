@@ -1,6 +1,6 @@
 <!-- Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=220&section=header&text=Pritom%20Pramanik&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20%7C%20AI%20%26%20Modern%20Web%20Tech&descAlignY=65)
 
-![Banner]([https://capsule-render.vercel.app/api?type=waving\&color=0:0ea5e9,100:22c55e\&height=220\&section=header\&text=Pritom%20Pramanik\&fontSize=40\&fontColor=ffffff\&animation=fadeIn\&desc=Full-Stack%20Web%20Developer%20%7C%20AI%20%26%20Modern%20Web%20Tech\&descAlignY=65](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20My%20Profile&height=200))
 
 # 👋 Hi, I'm Pritom Pramanik
 
@@ -100,7 +100,17 @@ I focus on clean code, performance optimization, and scalable architecture while
     style="box-shadow: 0 12px 30px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);"
   />
 
+  <!-- GitHub Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pritamprmnk&theme=react" 
+    alt="GitHub Streak Stats" 
+    height="180"
+    style="box-shadow: 0 12px 30px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);"
+  />
+
 </p>
+
+
 
 
 
@@ -115,7 +125,8 @@ To contribute to **innovative and impactful projects** while continuously growin
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+😊*Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
 
 
 
