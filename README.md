@@ -2,9 +2,9 @@
 
 ![Banner]([https://capsule-render.vercel.app/api?type=waving\&color=0:0ea5e9,100:22c55e\&height=220\&section=header\&text=Pritom%20Pramanik\&fontSize=40\&fontColor=ffffff\&animation=fadeIn\&desc=Full-Stack%20Web%20Developer%20%7C%20AI%20%26%20Modern%20Web%20Tech\&descAlignY=65](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20My%20Profile&height=200))
 
-👋 Hi, I'm Pritom Pramanik
+##👋 Hi, I'm Pritom Pramanik
 
-💻 Full-Stack Web Developer | 🤖 Passion for AI & Modern Web Tech
+## 💻 Full-Stack Web Developer | 🤖 Passion for AI & Modern Web Tech
 
 📍 **Location:** Bangladesh
 📧 **Email:** [pritam.dev@gmail.com](mailto:pritam.dev@gmail.com)
@@ -90,5 +90,6 @@ To contribute to **innovative and impactful projects** while continuously growin
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
 
 
