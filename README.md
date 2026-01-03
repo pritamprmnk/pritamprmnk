@@ -88,20 +88,16 @@ I focus on clean code, performance optimization, and scalable architecture while
 
   <!-- GitHub Stats Card -->
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=pritamprmnk&show_icons=true&theme=blueberry&border_radius=20&hide_border=false" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=pritamprmnk&show_icons=true&theme=dark&border_radius=20&hide_border=false" 
     height="180" 
-    style="box-shadow: 0 12px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);"
-    onmouseover="this.style.transform='scale(1.05)'" 
-    onmouseout="this.style.transform='scale(1)'"
+    style="box-shadow: 0 12px 30px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);"
   />
 
   <!-- Top Languages Card -->
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamprmnk&layout=compact&theme=blueberry&border_radius=20&hide_border=false" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamprmnk&layout=compact&theme=dark&border_radius=20&hide_border=false" 
     height="180" 
-    style="box-shadow: 0 12px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);"
-    onmouseover="this.style.transform='scale(1.05)'" 
-    onmouseout="this.style.transform='scale(1)'"
+    style="box-shadow: 0 12px 30px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);"
   />
 
 </p>
@@ -120,6 +116,7 @@ To contribute to **innovative and impactful projects** while continuously growin
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
 
 
 
