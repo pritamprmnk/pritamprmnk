@@ -77,7 +77,7 @@ I focus on clean architecture, performance optimization, and continuous learning
 
 **Tech:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, JWT, Stripe  
 
-**Highlights**
+**Features**
 - Role-based authentication (Donor / Volunteer / Admin)
 - Blood donor search by group & location
 - Request management system
@@ -91,7 +91,7 @@ I focus on clean architecture, performance optimization, and continuous learning
 
 **Tech:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, JWT  
 
-**Highlights**
+**Features**
 - Secure authentication (Email & Google)
 - Crop browsing & search system
 - Post & manage agricultural listings
@@ -105,7 +105,7 @@ I focus on clean architecture, performance optimization, and continuous learning
 
 **Tech:** React, Tailwind CSS, Chart.js, LocalStorage  
 
-**Highlights**
+**Features**
 - App install & uninstall simulation
 - Persistent data using LocalStorage
 - Live search & analytics charts
@@ -136,4 +136,5 @@ To work on **impactful and innovative projects** where I can apply my **full-sta
   <i>Thank you for visiting my profile.  
   Feel free to explore my repositories and connect with me!</i> 😊
 </p>
+
 
