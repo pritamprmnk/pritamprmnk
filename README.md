@@ -84,10 +84,22 @@ I focus on clean code, performance optimization, and scalable architecture while
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pritamprmnk&show_icons=true&theme=dark" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamprmnk&layout=compact&theme=dark" height="180"/>
+<p align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=pritamprmnk&show_icons=true&theme=radical&border_radius=15&hide_border=false" 
+    height="180" 
+    style="box-shadow: 0 8px 24px rgba(0,0,0,0.3);"
+  />
+  
+  <!-- Top Languages Card -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamprmnk&layout=compact&theme=radical&border_radius=15&hide_border=false" 
+    height="180" 
+    style="box-shadow: 0 8px 24px rgba(0,0,0,0.3);"
+  />
 </p>
+
 
 
 
@@ -102,6 +114,7 @@ To contribute to **innovative and impactful projects** while continuously growin
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
 
 
 
