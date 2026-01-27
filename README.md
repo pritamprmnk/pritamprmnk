@@ -116,13 +116,22 @@ I focus on clean architecture, performance optimization, and continuous learning
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pritamprmnk&show_icons=true&theme=dark&border_radius=15" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamprmnk&layout=compact&theme=dark&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pritamprmnk&show_icons=true&theme=react&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamprmnk&layout=compact&theme=react&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritamprmnk&theme=react" height="180"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=pritamprmnk&theme=react&hide_border=true"/>
 </p>
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -136,6 +145,7 @@ To work on **impactful and innovative projects** where I can apply my **full-sta
   <i>Thank you for visiting my profile.  
   Feel free to explore my repositories and connect with me!</i> 😊
 </p>
+
 
 
 
