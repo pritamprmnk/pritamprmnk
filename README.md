@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=180&section=header&text=Pritom%20Pramanik&fontSize=38&fontColor=ffffff&desc=Full-Stack%20Web%20Developer&descAlignY=70)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=180&section=header&text=Pritam%20Pramanik&fontSize=38&fontColor=ffffff&desc=MERN-Stack%20Web%20Developer&descAlignY=70)
 
 
 
@@ -136,5 +136,6 @@ To work on **impactful and innovative projects** where I can apply my **full-sta
   <i>Thank you for visiting my profile.  
   Feel free to explore my repositories and connect with me!</i> 😊
 </p>
+
 
 
