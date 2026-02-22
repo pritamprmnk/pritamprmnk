@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=180&section=header&text=Pritam%20Pramanik&fontSize=38&fontColor=ffffff&desc=MERN-Stack%20Web%20Developer&descAlignY=70)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=180&section=header&text=Pritam%20Pramanik&fontSize=38&fontColor=ffffff&desc=MERN-Stack%20%20Developer&descAlignY=70)
 
 
 
@@ -31,7 +31,7 @@
 
 ## 🚀 About Me
 
-I am a **Full-Stack Web Developer** who loves building **scalable, modern, and user-centric web applications**.  
+I am a **MERN-Stack Developer** who loves building **scalable, modern, and user-centric web applications**.  
 I specialize in **React, Next.js, Node.js, MongoDB, Firebase, and Tailwind CSS**.  
 I focus on clean architecture, performance optimization, and continuous learning to stay aligned with modern web standards.
 
@@ -145,6 +145,7 @@ To work on **impactful and innovative projects** where I can apply my **full-sta
   <i>Thank you for visiting my profile.  
   Feel free to explore my repositories and connect with me!</i> 😊
 </p>
+
 
 
 
