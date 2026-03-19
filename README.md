@@ -1,9 +1,9 @@
 <!-- ===================== BANNER ===================== -->
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=180&section=header&text=Pritam%20Pramanik&fontSize=38&fontColor=ffffff&desc=MERN-Stack%20%20Developer&descAlignY=70)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Pritam%20Pramanik&fontSize=40&fontColor=ffffff&desc=&descAlignY=70)
 
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Expert;Problem+Solver;UI%2FUX+Enthusiast" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pritamprmnk&label=Profile%20Views&color=0ea5e9&style=flat" />
@@ -11,109 +11,104 @@
 
 ---
 
+## Hello, I'm **Pritam Pramanik**
 
-## 👋 Hello, I'm **Pritom**
-
-📍 **Rajshahi, Bangladesh**  
-📧 **Email:** [pk.pritam24@gmail.com](mailto:pk.pritam24@gmail.com)  
-📞 **Contact:** +880 1793-110115  
+**Location:** Rajshahi, Bangladesh  
+**Email:** [pk.pritam24@gmail.com](mailto:pk.pritam24@gmail.com)  
+**Contact:** +880 1793-110115  
 
 <p>
   <a href="https://www.linkedin.com/in/pritampramanik/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/pritamprmnk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am a **MERN-Stack Developer** who loves building **scalable, modern, and user-centric web applications**.  
-I specialize in **React, Next.js, Node.js, MongoDB, Firebase, and Tailwind CSS**.  
-I focus on clean architecture, performance optimization, and continuous learning to stay aligned with modern web standards.
+I am a passionate **Full-Stack Developer** focused on building **scalable, high-performance, and user-centric applications**.  
 
----
+I work across the entire development lifecycle — from designing UI to building secure backend systems.  
 
-## 🔥 What I'm Doing Now
-
-- 🌱 Exploring **Next.js** & advanced React patterns  
-- 🧑‍💻 Building a **Tourism Management Web Application**  
-- ⚙️ Strengthening backend expertise with **Node.js & Express**  
-- 🤖 Integrating **AI-powered features** into real-world apps  
+I enjoy solving real-world problems, optimizing performance, and continuously learning modern technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## Current Focus
 
-### 🎨 Frontend
+▸ Building production-level full stack applications  
+▸ Advanced backend architecture and API optimization  
+▸ Authentication, security, and scalable systems  
+▸ Integrating AI features into web applications  
+▸ Exploring Next.js and system design  
+
+---
+
+## Tech Stack
+
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 💾 Database & Authentication
+### Database & Authentication
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
-### 🧰 Tools
+### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🩸 **RoktoSheba — Blood Donation Platform**
-🔗 **Live:** https://roktosheba11.netlify.app/
+### RoktoSheba — Blood Donation Platform  
+Live: https://roktosheba11.netlify.app/
 
-**Tech:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, JWT, Stripe  
+Tech: React, Node.js, Express, MongoDB, Firebase, JWT, Stripe  
 
-**Features**
-- Role-based authentication (Donor / Volunteer / Admin)
-- Blood donor search by group & location
-- Request management system
-- Admin & volunteer dashboards
-- Secure API & payment integration
+- Role-based authentication  
+- Blood donor search system  
+- Admin dashboard  
+- Secure API and payment integration  
 
 ---
 
-### 🌾 **KrishiLink — Social Agro Networking Platform**
-🔗 **Live:** https://krishilink10.netlify.app/
+### KrishiLink — Agro Social Platform  
+Live: https://krishilink10.netlify.app/
 
-**Tech:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, JWT  
+Tech: React, Node.js, Express, MongoDB, Firebase  
 
-**Features**
-- Secure authentication (Email & Google)
-- Crop browsing & search system
-- Post & manage agricultural listings
-- User interaction & interest system
-- Responsive & protected routes
+- Authentication and protected routes  
+- Post and crop management  
+- User interaction system  
 
 ---
 
-### 🚀 **Hero IO — App Store Simulation**
-🔗 **Live:** https://pk-hero-io.netlify.app/
+### Hero IO — App Store Simulation  
+Live: https://pk-hero-io.netlify.app/
 
-**Tech:** React, Tailwind CSS, Chart.js, LocalStorage  
+Tech: React, Chart.js, LocalStorage  
 
-**Features**
-- App install & uninstall simulation
-- Persistent data using LocalStorage
-- Live search & analytics charts
-- Clean UI & smooth UX
+- App install and uninstall system  
+- Data persistence  
+- Analytics dashboard  
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pritamprmnk&show_icons=true&theme=react&hide_border=true" height="170"/>
@@ -124,29 +119,30 @@ I focus on clean architecture, performance optimization, and continuous learning
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=pritamprmnk&theme=react&hide_border=true"/>
 </p>
 
+---
 
+## Developer Mindset
 
-
-
-
-
-
-
+▸ Clean and maintainable code  
+▸ Performance-first approach  
+▸ Problem-solving mindset  
+▸ Continuous learning  
+▸ Effective team collaboration  
 
 ---
 
-## 🎯 Career Objective
+## Career Goal
 
-To work on **impactful and innovative projects** where I can apply my **full-stack expertise**, grow with modern technologies, and contribute to meaningful digital solutions—especially in **AI-driven web applications**.
+To become a top-tier Full-Stack Developer by building impactful digital products, contributing to real-world solutions, and working on scalable AI-driven systems.
+
+---
+
+## Let's Connect
+
+Open for opportunities, collaboration, and freelance work  
 
 ---
 
 <p align="center">
-  <i>Thank you for visiting my profile.  
-  Feel free to explore my repositories and connect with me!</i> 😊
+  Star the repositories if you find them useful
 </p>
-
-
-
-
-
